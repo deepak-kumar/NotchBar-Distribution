@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NotchBar</title>
+        <item>
+            <title>1.5.0</title>
+            <pubDate>Fri, 26 Dec 2025 21:30:04 +0530</pubDate>
+            <sparkle:version>1.5.0</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3536197" type="application/octet-stream" sparkle:edSignature="zqV8cE/uW9BNwPGb7eD83av6k2VggawsHludTRnTbVIKda1NS7uTZLyBmpVzhwgvmC02N9Mw9Kvf2vCtq6XADA=="/>
+        </item>
+        <item>
+            <title>1.4.9</title>
+            <pubDate>Fri, 26 Dec 2025 21:17:01 +0530</pubDate>
+            <sparkle:version>1.4.9</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3488510" type="application/octet-stream" sparkle:edSignature="iFw9aKp5kuD4kjdT41eCFi7mqM2AR2kVoy4OKDhZKjp9bM+RMLT16lJz8x8ER9ywO+ucRBzzZek31MZNos1ZAA=="/>
+        </item>
+        <item>
+            <title>1.4.8</title>
+            <pubDate>Fri, 26 Dec 2025 21:12:44 +0530</pubDate>
+            <sparkle:version>1.4.8</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3473380" type="application/octet-stream" sparkle:edSignature="Iepyums0KcJ66tU315r9rv4tGeaqk7NR77MIpN0WnM5KJjkgOzEjiryf/sGQiBhJJOcdD7de0GyKIhK/QBlkBA=="/>
+        </item>
+    </channel>
+</rss>
