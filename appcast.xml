@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NotchBar</title>
+        <item>
+            <title>1.5.4</title>
+            <pubDate>Sat, 17 Jan 2026 22:51:44 +0530</pubDate>
+            <sparkle:version>1.5.4</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3624097" type="application/octet-stream" sparkle:edSignature="H4DUV1h5tM9aOmF0886MozBbNbKT15/IKZE//ogVmsZb5zxcoYVyMv9AgrO8MaK3UJ3+1zp+KorGYMMWxdDYBg=="/>
+        </item>
+        <item>
+            <title>1.5.3</title>
+            <pubDate>Fri, 16 Jan 2026 12:56:26 +0530</pubDate>
+            <sparkle:version>1.5.3</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3620953" type="application/octet-stream" sparkle:edSignature="v8KrDIuz/SGRreRr6CE+0VVTsXCoTM65PltW36bg0B7CO+TxFu5ZEk3C7n03RyybL8P/kThlKp2IL0EbDJzbBA=="/>
+        </item>
+        <item>
+            <title>1.5.2</title>
+            <pubDate>Fri, 16 Jan 2026 10:22:31 +0530</pubDate>
+            <sparkle:version>1.5.2</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/deepak-kumar/NotchBar-Distribution/main/NotchBar_Installer.dmg" length="3564046" type="application/octet-stream" sparkle:edSignature="fALGHJBOHXrLx8z7UWaMNGWuwPpNr3EIxbGybEDtdbcpRHtF5O/h7wRyaBjzRTJ6xhuwelk6fGaCXCAXLoHJCA=="/>
+        </item>
+    </channel>
+</rss>

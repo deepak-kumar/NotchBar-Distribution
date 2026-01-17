@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NotchBar — The Ultimate Control Center for your Notch</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/icon.png">
+
+    <!-- SEO & Metadata -->
+    <meta name="description"
+        content="Transform your MacBook notch into a powerful, glassmorphic control center. Control media, monitor system stats, and manage files directly from your notch.">
+    <meta name="keywords"
+        content="MacBook Notch, macOS utility, control center, glassmorphism, MacBook Pro, system monitor, media controls">
+    <link rel="canonical" href="https://deepak-kumar.github.io/NotchBar-Distribution/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://deepak-kumar.github.io/NotchBar-Distribution/">
+    <meta property="og:title" content="NotchBar — The Ultimate Control Center for your Notch">
+    <meta property="og:description"
+        content="Elevate your macOS experience with NotchBar. Transform your notch into a functional workstation.">
+    <meta property="og:image" content="https://deepak-kumar.github.io/NotchBar-Distribution/assets/hero.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://deepak-kumar.github.io/NotchBar-Distribution/">
+    <meta property="twitter:title" content="NotchBar — Control Center for your Notch">
+    <meta property="twitter:description"
+        content="Elevate your macOS experience. Media controls, stats, and files right in your notch.">
+    <meta property="twitter:image" content="https://deepak-kumar.github.io/NotchBar-Distribution/assets/hero.png">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "NotchBar",
+      "operatingSystem": "macOS",
+      "applicationCategory": "UtilityApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "A macOS utility that transforms the notch area into a functional control center.",
+      "softwareVersion": "1.5.4",
+      "downloadUrl": "https://github.com/deepak-kumar/NotchBar/releases"
+    }
+    </script>
+</head>
+
+<body>
+    <nav class="main-nav">
+        <div class="container">
+            <div class="logo" aria-label="NotchBar Home">
+                <span class="logo-icon" aria-hidden="true">􀥀</span>
+                NotchBar
+            </div>
+            <div class="nav-links">
+                <a href="#about" title="About NotchBar">About</a>
+                <a href="#features" title="NotchBar Features">Features</a>
+                <a href="#permissions" title="Privacy Policy">Privacy Policy</a>
+                <a href="NotchBar_Installer.dmg" class="btn btn-sm" title="Download NotchBar for macOS">Download</a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <header id="about" class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1 class="reveal">The Notch, Reimagined.</h1>
+                    <p class="reveal hero-description">Transform your MacBook's notch area into a functional, beautiful
+                        glassmorphic control center. Power at your fingertips, hidden until you need it.</p>
+                    <div class="hero-actions reveal">
+                        <a href="NotchBar_Installer.dmg" class="btn btn-primary"
+                            title="Download NotchBar for macOS">Download NotchBar</a>
+                        <span class="version-tag">Version 1.5.4 • macOS 13+</span>
+                    </div>
+                </div>
+                <div class="hero-image-parallax reveal">
+                    <div class="parallax-container" id="parallax">
+                        <img src="assets/desktop_bg.png" class="layer bg"
+                            alt="Clean macOS desktop background for NotchBar context">
+                        <div class="layer ui-overlay">
+                            <img src="assets/notch_ui.png" class="ui-element"
+                                alt="NotchBar glassmorphic user interface display">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section id="features" class="features">
+            <div class="container">
+                <h2 class="section-title reveal">Everything you need, right in your notch.</h2>
+                <div class="feature-grid">
+                    <article class="feature-card reveal">
+                        <div class="feature-icon" aria-hidden="true">􀊄</div>
+                        <h3>Media Controls</h3>
+                        <p>Control Apple Music and Spotify directly from the notch. Full playback support with beautiful
+                            artwork.</p>
+                    </article>
+                    <article class="feature-card reveal">
+                        <div class="feature-icon" aria-hidden="true">􀋦</div>
+                        <h3>System Stats</h3>
+                        <p>Monitor CPU, Memory, and Battery health in real-time. Stay informed without cluttering your
+                            menu
+                            bar.</p>
+                    </article>
+                    <article class="feature-card reveal">
+                        <div class="feature-icon" aria-hidden="true">􀈕</div>
+                        <h3>File Tray</h3>
+                        <p>Quickly store and access files by dragging them into the notch. Your temporary scratchpad,
+                            evolved.</p>
+                    </article>
+                    <article class="feature-card reveal">
+                        <div class="feature-icon" aria-hidden="true">􀆨</div>
+                        <h3>Global Hotkey (New)</h3>
+                        <p>Toggle your notch control center from anywhere with <strong>⌥ Option + Space</strong>.
+                            Seamless workflow integration.</p>
+                    </article>
+                    <article class="feature-card reveal">
+                        <div class="feature-icon" aria-hidden="true">􀍂</div>
+                        <h3>Quick Actions</h3>
+                        <p>Take screenshots, screen recordings, and toggle system settings with a single click from the
+                            expanded bar.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="permissions" class="permissions features reveal">
+            <div class="container">
+                <h2 class="section-title">Privacy Policy</h2>
+                <div class="permission-grid">
+                    <div class="permission-card">
+                        <div class="permission-header">
+                            <span class="permission-icon">􀀽</span>
+                            <h3>Accessibility</h3>
+                        </div>
+                        <p>Required for <strong>Media Controls</strong>. NotchBar needs this permission solely to
+                            interact with Apple Music and Spotify. No user interactions are logged or transmitted.</p>
+                        <ul class="steps">
+                            <li>Open <strong>System Settings</strong></li>
+                            <li>Go to <strong>Privacy & Security > Accessibility</strong></li>
+                            <li>Toggle <strong>NotchBar</strong> ON</li>
+                        </ul>
+                    </div>
+                    <div class="permission-card">
+                        <div class="permission-header">
+                            <span class="permission-icon">􀡊</span>
+                            <h3>Screen Recording</h3>
+                        </div>
+                        <p>Required for <strong>Screenshots</strong>. NotchBar only uses this to capture the specific
+                            areas you select. All images are processed locally on your machine.</p>
+                        <div class="troubleshooting-tip">
+                            <strong>􀇿 Permission Update Tip:</strong>
+                            <p>To keep your Mac secure, macOS requires a fresh "handshake" after every update for
+                                safety-critical apps. If features like screenshots fail after updating, simply
+                                <strong>Remove (-)</strong> and <strong>Re-Add (+)</strong> NotchBar in System Settings
+                                to refresh the local security record.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="privacy-callout">
+                    <p><strong>Zero Data Collection:</strong> NotchBar does not collect, store, or transmit any personal
+                        data. All processing happens entirely on your Mac. No analytics, no tracking, no exceptions.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="cta reveal">
+            <div class="container">
+                <div class="cta-card">
+                    <h2>Ready to upgrade your workspace?</h2>
+                    <p>Join thousands of users who are making their MacBook notch useful.</p>
+                    <a href="NotchBar_Installer.dmg" class="btn btn-primary btn-lg"
+                        title="Download NotchBar Installer">Download Now</a>
+                    <p class="minor">Free and Open Source</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 NotchBar App. All Rights Reserved. Built for macOS.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // High-fidelity Reveal System
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                        // No need to unobserve if we want it to stay visible
+                    }
+                });
+            }, observerOptions);
+
+            const reveals = document.querySelectorAll('.reveal');
+            reveals.forEach(el => observer.observe(el));
+
+            // Interactive Parallax (untouched as requested)
+            const parallax = document.getElementById('parallax');
+            const ui = document.querySelector('.ui-element');
+
+            window.addEventListener('mousemove', (e) => {
+                const x = (e.clientX - window.innerWidth / 2) / 40;
+                const y = (e.clientY - window.innerHeight / 2) / 40;
+
+                if (parallax) {
+                    parallax.style.transform = `rotateY(${x}deg) rotateX(${-y}deg)`;
+                }
+
+                if (ui) {
+                    ui.style.transform = `translateX(${x * 1.5}px) translateY(${-y * 1.5}px)`;
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
