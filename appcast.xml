@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NotchBar</title>
+        <item>
+            <title>1.5.8</title>
+            <pubDate>Sat, 20 Jun 2026 06:51:05 +0530</pubDate>
+            <sparkle:version>1.5.8</sparkle:version>
+            <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://buildwithlov.com/notchbar/NotchBar_Installer.dmg" length="3936271" type="application/octet-stream" sparkle:edSignature="3pmWTUoXrBIMnJnyD2g9GzqmODHDeHxaAPWo9DT0tUa5Qkdcg46Qy3aSOk/ad/yz/G4tICR36X7QWvpmmbYHAA=="/>
+        </item>
+        <item>
+            <title>1.5.7</title>
+            <pubDate>Sun, 14 Jun 2026 02:01:15 +0530</pubDate>
+            <sparkle:version>1.5.7</sparkle:version>
+            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://buildwithlov.com/notchbar/NotchBar_Installer.dmg" length="3901230" type="application/octet-stream" sparkle:edSignature="5v6GRvdilMDyM83vOmVHmxCfUZ6zRGbCPPv4ZYIk8oX6YNMb0tV28K8k7AObMM8ugxQa2h7KVyQTVKlnPW0YCA=="/>
+        </item>
+        <item>
+            <title>1.5.6</title>
+            <pubDate>Sat, 13 Jun 2026 19:43:58 +0530</pubDate>
+            <sparkle:version>1.5.6</sparkle:version>
+            <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://buildwithlov.com/notchbar/NotchBar_Installer.dmg" length="3774194" type="application/octet-stream" sparkle:edSignature="Nl4cVdlwB6Xrf6pbxd9YssAxOjX5Ve/JdZyoC4K7RfiN98BzjXm2xiOdp1eGOYr8bNK76f5iTfMLHeKYz69gCw=="/>
+        </item>
+    </channel>
+</rss>
